@@ -1,3 +1,6 @@
+all:
+  vars:
+    control_plane_endpoint: 10.0.1.110
 metal:
   children:
     masters:
